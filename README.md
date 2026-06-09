@@ -1,0 +1,2 @@
+# Spendly
+UPI Expenses Tracker
